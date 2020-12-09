@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value=""/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="distance"/>
+			<item value="close"/>
+			<item value="videoRent"/>
+			<item value="message"/>
+			<item value="set"/>
+			<item value="setUp"/>
+			<item value="condition"/>
+			<item value="postStr"/>
+			<item value="rank"/>
+			<item value="add(primefactor"/>
+			<item value="add(int p"/>
+			<item value="add"/>
+			<item value="link"/>
+			<item value="lnk"/>
+			<item value="dividedBy"/>
+		</list>
+		<list key="replacehistory">
+			<item value="sb"/>
+			<item value="rankTotal"/>
+			<item value="print"/>
+			<item value="Plain"/>
+			<item value="number"/>
+			<item value=""/>
+			<item value="scanner"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="9"/>
+		<item key="DIALOG_Y_ORIGIN" value="492"/>
+		<item key="DIALOG_WIDTH" value="294"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

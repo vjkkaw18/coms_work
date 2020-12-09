@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+/Users/vancekaw/Desktop/ECLIPSE FILES/cs228/.metadata/.plugins/org.eclipse.jdt.core
+3618809265.index
+2400283315.index
+3713463090.index
+3785393958.index
+1082094795.index
+2926646759.index
+524126782.index
+245263909.index
+469599693.index
+3084338430.index
+1207925504.index
+3608510799.index
+3286301350.index
+930628701.index
+2259773393.index
+1079340573.index
+3420884756.index
+2837238270.index
+859819310.index
+3726369128.index
+779969338.index
+160014170.index
+911670970.index
+289532716.index
+1271342938.index

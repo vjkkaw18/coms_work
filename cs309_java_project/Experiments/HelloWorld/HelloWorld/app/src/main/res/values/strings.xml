@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hospital Management App</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="fname">fName</string>
+    <string name="lname">lName</string>
+    <string name="email">eMail</string>
+    <string name="pword">pWord</string>
+    <string name="already_have_an_account_login">Already have an account - login.</string>
+    <string name="register">Register</string>
+</resources>

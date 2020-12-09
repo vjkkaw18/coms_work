@@ -1,0 +1,4 @@
+F5 E  E  R1
+B3 F1 B0 G1
+R0 E  R2 R3
+F2 E  G  G

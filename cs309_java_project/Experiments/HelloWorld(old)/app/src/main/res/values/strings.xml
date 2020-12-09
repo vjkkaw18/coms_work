@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RP_02 Experiments</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="fname">fName</string>
+    <string name="lname">lName</string>
+    <string name="email">eMail</string>
+    <string name="pword">pWord</string>
+    <string name="already_have_an_account_login">Already have an account - login.</string>
+    <string name="register">Register</string>
+    <string name="title_activity_inventory">Inventory</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_inventory_list">InventoryList</string>
+    <string name="title_activity_tab">TabActivity</string>
+</resources>

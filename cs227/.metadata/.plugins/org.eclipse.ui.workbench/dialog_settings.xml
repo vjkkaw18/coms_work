@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="203"/>
+		<item key="DIALOG_Y_ORIGIN" value="28"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item key="sort" value="0"/>
+		<item key="allPersp" value="false"/>
+		<list key="columns">
+			<item value="199"/>
+			<item value="399"/>
+		</list>
+		<list key="bounds">
+			<item value="409"/>
+			<item value="45"/>
+			<item value="622"/>
+			<item value="445"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		<item key="DIALOG_HEIGHT" value="644"/>
+		<item key="DIALOG_X_ORIGIN" value="-83"/>
+		<item key="DIALOG_Y_ORIGIN" value="-210"/>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/vaka99/Desktop/hw4_spec"/>
+			<item value="/Users/vaka99/Desktop/mini3"/>
+			<item value="/Users/vaka99/Desktop/hw3"/>
+			<item value="/Users/vaka99/Desktop/polyline_plotter"/>
+			<item value="/Users/vaka99/Desktop/example2"/>
+			<item value="/Users/vaka99/Desktop/mini2"/>
+			<item value="/Users/vaka99/Desktop/mini1"/>
+			<item value="/Users/vaka99/Desktop/lab6"/>
+			<item value="/Users/vaka99/Desktop/SpecChecker HW2"/>
+			<item value="/Users/vaka99/Desktop/Rabbits"/>
+			<item value="/Users/vaka99/Desktop/SpecChecker for HW1"/>
+			<item value="/Users/vaka99/Desktop/spec checker"/>
+		</list>
+	</section>
+</section>
